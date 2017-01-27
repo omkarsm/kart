@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kart</string>
+    <string name="compute_id">101</string>
+    <string name="item_list_id">102</string>
+</resources>
